@@ -1,0 +1,5 @@
+G:\工作\Lab\DbQuery\bin\Debug\DbQuery.dll
+G:\工作\Lab\DbQuery\bin\Debug\DbQuery.pdb
+G:\工作\Lab\DbQuery\obj\Debug\ResolveAssemblyReference.cache
+G:\工作\Lab\DbQuery\obj\Debug\DbQuery.dll
+G:\工作\Lab\DbQuery\obj\Debug\DbQuery.pdb
