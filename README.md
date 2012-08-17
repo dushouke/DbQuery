@@ -66,7 +66,11 @@ manual mapping
 ##Performance
 
 
-<iframe width="485" height="318" frameborder="0" scrolling="no" src="https://r.office.microsoft.com/r/rlidExcelEmbed?su=3435790709610489208&Fi=SD2FAE617260EBA578!233&ak=t%3d0%26s%3d0%26v%3d!ACuhxuTLasy-Kp0&kip=1&wdAllowInteractivity=False&Item=Chart%201&wdDownloadButton=True"></iframe>
+![Performance][1]
+
+
+  [1]: http://i.stack.imgur.com/TjV6Y.jpg
+
 
 
 
