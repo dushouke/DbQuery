@@ -1,7 +1,7 @@
 # Get Start
 
- DbQuery is a another mini .net orm,it uses esay and performance is not bad.
- It support C# 3.0+
+ DbQuery is a  handy database operations class for .net(the modern sqlhelper) ,it uses esay and performance is good.
+ It support C# 3.0+.
 
 ## ExecuteScalar
 
